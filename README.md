@@ -18,6 +18,10 @@ Este é um projeto de um jogo do Mario desenvolvido com HTML, CSS e JavaScript. 
 - Diversos níveis com aumentos progressivos de dificuldade.
 - Sistema de pontuação baseado em moedas coletadas e tempo de conclusão.
 
+##Link do projeto
+
+https://roseanedasilva1212.github.io/JogodoMario/
+
 ## Capturas de Tela
 
 ![Captura de tela 2024-04-26 193310](https://github.com/Roseanedasilva1212/JogodoMario/assets/167696930/a639acad-a736-4c60-96a5-ccf51f5eb556)
